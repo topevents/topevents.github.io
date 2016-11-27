@@ -2964,7 +2964,7 @@
 			-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 			transition: transform 1s ease, opacity 1s ease;
-			background: rgba(23, 24, 32, 0.95);
+			background: rgba(129, 63, 140, 0.95);
 			border-style: solid;
 			opacity: 1;
 			position: absolute;
@@ -3352,10 +3352,10 @@
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgba(186, 104, 200, 0.95), rgba(186, 104, 200, 0.95)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(186, 104, 200, 0.95), rgba(186, 104, 200, 0.95)), url("images/overlay.png");;
+			background-image: -ms-linear-gradient(top, rgba(186, 104, 200, 0.95), rgba(186, 104, 200, 0.95)), url("images/overlay.png");;
+			background-image: linear-gradient(top, rgba(186, 104, 200, 0.95), rgba(186, 104, 200, 0.95)), url("images/overlay.png");;
 			content: '';
 			display: block;
 			height: 100%;
